@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="859cf173-93d5-4130-992c-f43a30ca0ea3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:/Program Files/Go" />
+  <component name="ProjectId" id="1xg1LqNM7XD2Fw0FCSk7AI57mJs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestExample32 in section3_test.go">
+    <configuration name="TestExample26 in section2_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrency-in-go" />
+      <working_directory value="$PROJECT_DIR$/chapter3" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter3/section2_test.go" />
+      <pattern value="^\QTestExample26\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestExample27 in section2_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrency-in-go" />
+      <working_directory value="$PROJECT_DIR$/chapter3" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter3/section2_test.go" />
+      <pattern value="^\QTestExample27\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestExample31 in section3_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrency-in-go" />
+      <working_directory value="$PROJECT_DIR$/chapter3" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter3/section3_test.go" />
+      <pattern value="^\QTestExample31\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestExample32 in section3_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrency-in-go" />
+      <working_directory value="$PROJECT_DIR$/chapter3" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter3/section3_test.go" />
+      <pattern value="^\QTestExample32\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestExample43 in section1_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="concurrency-in-go" />
+      <working_directory value="$PROJECT_DIR$/chapter4" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter4/section1_test.go" />
+      <pattern value="^\QTestExample43\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestExample32 in section3_test.go" />
+        <item itemvalue="Go Test.TestExample31 in section3_test.go" />
+        <item itemvalue="Go Test.TestExample43 in section1_test.go" />
+        <item itemvalue="Go Test.TestExample27 in section2_test.go" />
+        <item itemvalue="Go Test.TestExample26 in section2_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1066" y="198" key="#Inspections" timestamp="1630770328686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1066" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1630770328686" />
+    <state width="914" height="2" key="GridCell.Tab.0.bottom" timestamp="1630857804925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="2" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630857804925" />
+    <state width="914" height="2" key="GridCell.Tab.0.center" timestamp="1630857804925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="2" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630857804925" />
+    <state width="914" height="2" key="GridCell.Tab.0.left" timestamp="1630857804925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="2" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630857804925" />
+    <state width="914" height="2" key="GridCell.Tab.0.right" timestamp="1630857804925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="914" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630857804925" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1630818942250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1630818942250" />
+  </component>
+</project>

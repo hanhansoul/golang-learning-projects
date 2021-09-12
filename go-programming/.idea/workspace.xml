@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58315bc6-d349-4531-9330-8dc7b6405812" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:/Program Files/Go" />
+  <component name="ProjectId" id="1xO5NMgbHQIM2KJyQ1vBrXKhfck" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestExample52 in section5_test.go">
+    <configuration name="TestExample32 in section_3_3_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-programming" />
+      <working_directory value="$PROJECT_DIR$/chapter3" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter3/section_3_3_test.go" />
+      <pattern value="^\QTestExample32\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestExample35 in section_3_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-programming" />
+      <working_directory value="$PROJECT_DIR$/chapter3" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter3/section_3_test.go" />
+      <pattern value="^\QTestExample35\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestExample36 in section_3_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-programming" />
+      <working_directory value="$PROJECT_DIR$/chapter3" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter3/section_3_test.go" />
+      <pattern value="^\QTestExample36\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestExample52 in section5_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="go-programming" />
+      <working_directory value="$PROJECT_DIR$/chapter3" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/chapter3/section5_test.go" />
+      <pattern value="^\QTestExample52\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestExample52 in section5_test.go" />
+        <item itemvalue="Go Test.TestExample36 in section_3_test.go" />
+        <item itemvalue="Go Test.TestExample35 in section_3_test.go" />
+        <item itemvalue="Go Test.TestExample32 in section_3_3_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="318" key="GridCell.Tab.0.bottom" timestamp="1630256265567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1630256265567" />
+    <state width="1877" height="318" key="GridCell.Tab.0.center" timestamp="1630256265567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1630256265567" />
+    <state width="1877" height="318" key="GridCell.Tab.0.left" timestamp="1630256265567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1630256265567" />
+    <state width="1877" height="318" key="GridCell.Tab.0.right" timestamp="1630256265567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="318" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630256265567" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1630250628565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1630250628565" />
+  </component>
+</project>
