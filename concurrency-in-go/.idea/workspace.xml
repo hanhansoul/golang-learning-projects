@@ -3,8 +3,28 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="859cf173-93d5-4130-992c-f43a30ca0ea3" name="Default Changelist" comment="" />
+    <list default="true" id="859cf173-93d5-4130-992c-f43a30ca0ea3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +38,11 @@
     </option>
   </component>
   <component name="GOROOT" path="D:/Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1xg1LqNM7XD2Fw0FCSk7AI57mJs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,7 +52,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../the-way-to-go" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RunManager" selected="Go Test.TestExample32 in section3_test.go">
     <configuration name="TestExample26 in section2_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -95,11 +120,29 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
   <component name="WindowStateProjectService">
     <state x="1066" y="198" key="#Inspections" timestamp="1630770328686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1066" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1630770328686" />
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1631427775447">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1631427775447" />
     <state width="914" height="2" key="GridCell.Tab.0.bottom" timestamp="1630857804925">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -116,6 +159,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="2" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1630857804925" />
+    <state x="611" y="143" key="SettingsEditor" timestamp="1631419818267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="611" y="143" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631419818267" />
     <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1630818942250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
